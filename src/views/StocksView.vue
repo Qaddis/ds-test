@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import PageHeader from "@/components/ui/PageHeader.vue"
+</script>
 
 <template>
-	<h1>Склады</h1>
+	<page-header>Склады</page-header>
 </template>
 
 <style scoped lang="scss"></style>

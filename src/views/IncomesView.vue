@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import PageHeader from "@/components/ui/PageHeader.vue"
+</script>
 
 <template>
-	<h1>Доходы</h1>
+	<page-header>Доходы</page-header>
 </template>
 
 <style scoped lang="scss"></style>
